@@ -308,18 +308,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:157px;
 }
 .btn-style1{
-	color:var(--swatch-var-1205)!important;
+	color:var(--swatch-var-6037)!important;
 	border-width:1px 1px 1px 1px;
 	border-radius:7px 7px 7px 7px;
 	border-style:solid;
-	border-color:var(--swatch-var-1205)!important;
+	border-color:var(--swatch-var-6037)!important;
 	width:33%;
 	font-family:"Helvetica";
 	font-weight:700;
 }
 .btn-style1:hover{
 	color:var(--swatch-var-5465)!important;
-	background-color:var(--swatch-var-1205);
+	background-color:var(--swatch-var-6037);
 }
 .main{
 	position:relative;
